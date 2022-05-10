@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on full stack personal projects
 - 🌱 I’m currently learning Object-oriented programming (OOP)
 - 👯 I’m looking to collaborate on React/Nodejs/Mongodb projects
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I discovered programming in my master's and since then I've been totally poisoned
 
 "Uma jornada de mil milhas começa com um único passo" - Lao-Tsé
