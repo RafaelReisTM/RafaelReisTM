@@ -6,7 +6,7 @@
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: I discovered programming in my master's and since then I've been totally poisoned
 
-"Uma jornada de mil milhas começa com um único passo" - Lao-Ts
+"Uma jornada de mil milhas começa com um único passo" - Lao-Tsé
 
 <div align="center">
   <a href="https://github.com/RafaelReisTM">
