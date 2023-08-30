@@ -22,10 +22,10 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact&theme=dark" />
   </picture>
 </div>
 
