@@ -26,15 +26,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact&langs_count=7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact" />
 </picture>
   
 <div style="display: inline_block"><br>
