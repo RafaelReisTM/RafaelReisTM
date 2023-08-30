@@ -8,36 +8,22 @@
 
 "The journey of a thousand miles begins with one step" - Lao-Tzu
 
-<!---
-<div align="center">
-  <a href="https://github.com/RafaelReisTM">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact" />
-</picture>
--->
 <div style="display: inline_block"><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact)
+  <picture>
+   
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelReisTM&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReisTM&layout=compact" />
+  </picture>
 </div>
 
-
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
